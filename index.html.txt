@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Flayzone</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family:sans-serif; padding:32px;">
+<h1>Flayzone</h1>
+<p>Website tổng hợp thông tin, đánh giá và chia sẻ liên quan đến các sản phẩm trên internet.</p>
+<p>Chúng tôi chia sẻ thông tin giúp người dùng tham khảo trước khi đưa ra quyết định mua hàng.</p>
+
+<p><a href="/go" style="font-size:20px;">Tiếp tục</a></p>
+<p><a href="/privacy">Privacy</a> | <a href="/terms">Terms</a> | <a href="/contact">Contact</a></p>
+</body>
+</html>

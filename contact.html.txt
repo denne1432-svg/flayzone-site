@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Contact</title></head>
+<body style="font-family:sans-serif; padding:32px;">
+<h1>Contact</h1>
+<p>Mọi thông tin liên hệ vui lòng gửi email về: support@flayzone.com</p>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Privacy Policy</title></head>
+<body style="font-family:sans-serif; padding:32px;">
+<h1>Privacy Policy</h1>
+<p>Chúng tôi cam kết bảo mật thông tin cá nhân của người dùng. Các dữ liệu thu thập chỉ được sử dụng nhằm mục đích phân tích hành vi truy cập và tối ưu trải nghiệm người dùng.</p>
+</body>
+</html>
